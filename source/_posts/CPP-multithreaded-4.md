@@ -6,9 +6,8 @@ tags:
   - Linux
   - Windows
   - C++ 开发
-  - GDB
 categories:
-  - C/C++ 多线程编程
+  - C/C++ 多线程编程精髓
 date: 2021-10-18 12:42:37
 ---
 #### 音乐小港
